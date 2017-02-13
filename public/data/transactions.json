@@ -1,0 +1,37 @@
+{
+	"accounts": [
+		{
+			"number": 23132,
+			"operations": [
+				{
+					"date": "23-10-2016",
+					"transactions": [
+						{"detail": "Zara", "amount": "-£35.98"},
+						{"detail": "House of Fraser", "amount": "-£35.98"},
+						{"detail": "Tesco", "amount": "-£35.98"}
+					]
+				},
+				{
+					"date": "22-10-2016",
+					"transactions": [
+						{"detail": "John Lewis", "amount": "-£35.98"},
+						{"detail": "Zara", "amount": "-£35.98"}
+					]
+				},
+				{
+					"date": "21-10-2016",
+					"transactions": [
+						{"detail": "Tesco", "amount": "-£35.98"},
+						{"detail": "Zara", "amount": "-£35.98"}
+					]
+				},
+				{
+					"date": "20-10-2016",
+					"transactions": [
+						{"detail": "Tesco", "amount": "-£35.98"}
+					]
+				}
+			]
+		}
+	]
+}
